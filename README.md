@@ -1,3 +1,4 @@
 # hello-world
-Just another repository
-I am Timos and i like CB400
+Just another repository. 
+Hi, I am Timos and i like CB400
+Goodbye! 
